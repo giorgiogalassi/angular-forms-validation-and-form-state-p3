@@ -1,3 +1,7 @@
+> **📦 This demo has moved** to [`giorgiogalassi/angular-article-demos`](https://github.com/giorgiogalassi/angular-article-demos/tree/main/demos/2026-02-17-angular-forms-validation-part-3), together with the demos for my other Angular articles.
+>
+> [Open the new version on StackBlitz](https://stackblitz.com/github/giorgiogalassi/angular-article-demos/tree/main/demos/2026-02-17-angular-forms-validation-part-3). This repository is archived and kept online so links in published articles keep working.
+
 # Angular Forms - Validation and Form State (Part 3)
 
 This repository contains working examples for Part 3 of an Angular Forms series.
